@@ -1,2 +1,4 @@
 # hello-world
-idées thèse
+propositions thèse
+
+hello, hi, I'm just trying...
